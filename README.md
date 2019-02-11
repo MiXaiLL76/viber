@@ -1,4 +1,4 @@
-# [The original file can be found here."](https://github.com/mileusna/viber/blob/master/README.md).
+# [The original file can be found here](https://github.com/mileusna/viber/blob/master/README.md).
 
 # MiXaiLL76 update
  
